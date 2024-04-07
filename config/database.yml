@@ -38,3 +38,11 @@ development:
   username: blog
   password:
   host: localhost
+
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: tt_intraweb_production
+  pool: 5
+  username: mysite
+  password: TBWN68QOw4vP9VFtiZs29QLgKH2uOm98
